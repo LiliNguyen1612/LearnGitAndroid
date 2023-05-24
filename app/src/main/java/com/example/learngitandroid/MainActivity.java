@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("day la commit thu 2");
         System.out.println("day la commit thu 3");
+        System.out.println("day la commit same vs code");
     }
 }
